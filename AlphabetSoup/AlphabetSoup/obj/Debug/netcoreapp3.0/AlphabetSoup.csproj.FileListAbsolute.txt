@@ -1,0 +1,11 @@
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\AlphabetSoup\AlphabetSoup\bin\Debug\netcoreapp3.0\AlphabetSoup.exe
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\AlphabetSoup\AlphabetSoup\bin\Debug\netcoreapp3.0\AlphabetSoup.deps.json
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\AlphabetSoup\AlphabetSoup\bin\Debug\netcoreapp3.0\AlphabetSoup.runtimeconfig.json
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\AlphabetSoup\AlphabetSoup\bin\Debug\netcoreapp3.0\AlphabetSoup.runtimeconfig.dev.json
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\AlphabetSoup\AlphabetSoup\bin\Debug\netcoreapp3.0\AlphabetSoup.dll
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\AlphabetSoup\AlphabetSoup\bin\Debug\netcoreapp3.0\AlphabetSoup.pdb
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\AlphabetSoup\AlphabetSoup\obj\Debug\netcoreapp3.0\AlphabetSoup.csprojAssemblyReference.cache
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\AlphabetSoup\AlphabetSoup\obj\Debug\netcoreapp3.0\AlphabetSoup.AssemblyInfoInputs.cache
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\AlphabetSoup\AlphabetSoup\obj\Debug\netcoreapp3.0\AlphabetSoup.AssemblyInfo.cs
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\AlphabetSoup\AlphabetSoup\obj\Debug\netcoreapp3.0\AlphabetSoup.dll
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\AlphabetSoup\AlphabetSoup\obj\Debug\netcoreapp3.0\AlphabetSoup.pdb
